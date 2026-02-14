@@ -1,4 +1,4 @@
-# Vulkan Mass-Spring
+# Vulkan PBD
 
 이 프로젝트는 Vulkan API를 사용하여 구현한 PBD 방식의 옷감 시뮬레이션입니다. 저장소 용량 최적화와 이식성을 위해 Vulkan SDK는 포함되어 있지 않으며, 환경 변수를 통해 로컬 SDK를 참조합니다.
 
